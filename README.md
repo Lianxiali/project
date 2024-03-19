@@ -1,2 +1,2 @@
 # Kidney project
-  [pressure field](rotation.gif)
+  [pressure field](kidney/animation/AVF_pressure.gif)
